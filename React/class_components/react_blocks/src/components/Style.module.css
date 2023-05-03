@@ -1,0 +1,39 @@
+.header {
+    background-color: #6aa84f;
+    height: 150px;
+}
+
+
+.nav {
+    background-color: #61a8dc;
+    width: 250px;
+    height: 500px;
+    margin-top: 20px;
+}
+
+.main {
+    background-color: #e06666;
+    height: 600px;
+    width: 1050px;
+    margin-top: 20px;
+    padding: 20px;  
+}
+
+.flex {
+    display: flex;
+    gap: 55px;
+    justify-content: center;
+}
+
+.sub {
+    background-color: #ffd966;
+    height: 400px;
+    width: 300px;
+}
+
+.ad {
+    background-color: #b4a7d6;
+    height: 175px;
+    width: 1010px;
+    margin-top: 20px;
+}
